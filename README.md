@@ -6,7 +6,7 @@ Easy Key-Value pair in javascript (HashMap)
 How To Use
 ==========
 ```
-var hMap=new HashMap();
+	var hMap=new HashMap();
 	hMap.add("name","Partha Ranjan");
 	hMap.add("address","Mumbai");
 	hMap.add("email","partharanjan.nayak@gmail.com");
